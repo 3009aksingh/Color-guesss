@@ -1,6 +1,6 @@
 {
-    "name": "EventMgmt.",
-    "short_name": "EventMgmt",
+    "name": "color_guess",
+    "short_name": "Color Guess",
     "start_url": "/index.html",
     "background_color": "#ffe1d4",
     "theme_color": "#b33b04",
