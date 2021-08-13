@@ -9,7 +9,9 @@
   </a>
 </p>
 
-> It'a game in which we have to guess the color by interpreting the RGB format. Developed a responsive and interactive web application, created using HTML, CSS, JS. It’s a
+> It'a game in which we have to guess the color by interpreting the RGB format. Developed a responsive and interactive web application, created using HTML, CSS, JS. Developed a responsive and interactive web application, created using HTML, CSS, JS. It’s a
+color guessing game which requires familiarization of basic RGB format color notation by the user. Embedded PWA
+which utilizes local storage of browser which makes website available offline, can be installed as app on mobile phones.
 
 ### 🏠 [Homepage](https://color-guesss.herokuapp.com/main)
 
